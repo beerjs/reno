@@ -14,6 +14,7 @@ Community is our core.
 
 [BeerJS Slack](https://beerjs.slack.com/messages/tahoe/)<br />
 [Join the BeerJS Slack Team](https://beerjs-slack-invite.herokuapp.com/)<br />
+[RenoJS Meetup](https://www.meetup.com/RenoJS)
 
 ## Organizers
 
