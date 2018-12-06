@@ -1,6 +1,6 @@
 # BeerJS: Reno
 
-The sole purpose of BeerJS Reno is to find, strengthen, and grow the JavaScript community in Reno... That and have a few beers of course.
+The sole purpose of BeerJS Reno is to find, strengthen, and grow the JavaScript community in our city...  well, that and have a few beers of course.
 
 Right now this is just a place to rub shoulders with some of your fellow engineers.
 
