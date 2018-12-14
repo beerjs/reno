@@ -8,6 +8,21 @@ Right now this is just a place to rub shoulders with some of your fellow enginee
 
 We will be meeting on the **2nd Thursday** of the month at *6pm*. Our current home for all of our events will be [Rue Bourbon](https://www.ruebourbonreno.com/) in midtown Reno.  There is plenty of parking in the back.
 
+Want to join?
+-------------
+
+Click the <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> button on this repo (star us too!) to get notified of upcoming events.
+
+## Want to help?
+
+Submit a Pull Request, file an Issue, or edit the Wiki.
+
+## Why Github?
+
+* Github is a more natural social network for a group of developers than Meetup.com.  
+* Less spam
+* Because Github is free which means more beer money (oh whiskey)!
+
 ## The Community
 
 Our community is our core.
@@ -25,14 +40,3 @@ Our community is our core.
 ## Organizers
 
 * Jordan Papaleo ([Github](https://github.com/jordanpapaleo) [Twitter](https://twitter.com/jordanpapaleo))
-
-
-## Want to help?
-
-Submit a Pull Request, file an Issue, or edit the Wiki.
-
-## Why Github?
-
-* Github is a more natural social network for a group of developers than Meetup.com.  
-* Less spam
-* Because Github is free which means more beer money (oh whiskey)!
