@@ -6,7 +6,7 @@ Right now this is just a place to rub shoulders with some of your fellow enginee
 
 ## Want to hang out?
 
-We will be meeting on the **2nd Thursday** of the month at *6pm*. Our current home for all of our events will be [Rue Bourbon](https://www.ruebourbonreno.com/) in midtown Reno.  There is plenty of parking in the back.
+We will be meeting on the **2nd Thursday** of the month at *6pm*. The current home for all of our events will be [Rue Bourbon](https://www.ruebourbonreno.com/) in midtown Reno.  There is plenty of parking in the back.
 
 Want to join?
 -------------
