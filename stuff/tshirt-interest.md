@@ -4,6 +4,8 @@
 
 ## Medium
 
+- Jordan x 1
+
 ## Large
 
 - Jordan x 1
