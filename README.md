@@ -28,7 +28,7 @@ Submit a Pull Request, file an Issue, or edit the Wiki.
 Our community is our core.
 
 [BeerJS Slack](https://beerjs.slack.com)<br />
-[Join the BeerJS Slack Team](https://beerjs-slack-invite.herokuapp.com/)<br />
+[Join the BeerJS Slack Team](https://beers-slack-invite.herokuapp.com/)<br />
 
 ### Our Regional Family
 
