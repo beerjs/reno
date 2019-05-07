@@ -12,6 +12,7 @@
 - Kevin English x 1
 - Don Morrison (elskwid) X 1
 - Eve Porcello x 1
+- Jesse Garrison x 1
 
 ## XLarge
 
